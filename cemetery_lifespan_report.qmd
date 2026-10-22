@@ -49,13 +49,13 @@ format:
 
         \fancypagestyle{body}{
           \fancyhf{}
-          \fancyhead[L]{\footnotesize\itshape Hendrickson. \textit{Survivorship Curves of Sunset Hill Cemetery}}
+          \fancyhead[L]{\footnotesize\itshape Carter and Proctor. \textit{Survivorship Curves of Sunset Hill Cemetery}}
           \fancyhead[R]{\footnotesize Page \thepage\ of \pageref{LastPage}}
           \renewcommand{\headrulewidth}{0pt}
         }
         \fancypagestyle{plain}{
           \fancyhf{}
-          \fancyhead[L]{\footnotesize\itshape Hendrickson. \textit{Survivorship Curves of Sunset Hill Cemetery}}
+          \fancyhead[L]{\footnotesize\itshape Carter. \textit{Survivorship Curves of Sunset Hill Cemetery}}
           \fancyhead[R]{\footnotesize Page \thepage\ of \pageref{LastPage}}
           \renewcommand{\headrulewidth}{0pt}
         }
@@ -74,7 +74,7 @@ csl: newphytologist.csl
 \noindent
 \begin{minipage}[t]{0.66\linewidth}
   \scriptsize
-  Hendrickson. \textit{Survivorship Curves of Sunset Hill Cemetery}
+  Carter and Proctor. \textit{Survivorship Curves of Sunset Hill Cemetery}
   \hfill (2026) 1:1\\
   Valdosta State University, Ecology and Evolution
 \end{minipage}
@@ -108,7 +108,7 @@ csl: newphytologist.csl
 
 \noindent
 {\small
-Brandon Thomas Hendrickson\textsuperscript{1,*}
+Brandon Thomas Carter and Proctor\textsuperscript{1,*}
 }
 
 \vspace{0.08in}
@@ -138,13 +138,13 @@ Brandon Thomas Hendrickson\textsuperscript{1,*}
     \vspace{3pt}
 
     \textbf{Results:}
-    [Summarize the principal patterns in the class data.]
+    Summarize the principal patterns in the class data.
 
     \vspace{3pt}
 
     \textbf{Conclusions:}
-    [State what the observed patterns suggest and note limitations. Distinguish
-    lifespan in this cemetery sample from population life expectancy.]
+    State what the observed patterns suggest and note limitations. Distinguish
+    lifespan in this cemetery sample from population life expectancy.
 
     \vspace{3pt}
 
@@ -162,7 +162,7 @@ Brandon Thomas Hendrickson\textsuperscript{1,*}
 
 \noindent
 {\scriptsize
-\textsuperscript{*}Correspondence: bhendrickson@valdosta.edu\\
+\textsuperscript{*}Correspondence: bCarter and Proctor@valdosta.edu\\
 \textsuperscript{1}Department of Biology, Valdosta State University,
 Valdosta, Georgia, USA\\
 Ecology and Evolution, BIOL 3250, Section B
@@ -184,71 +184,49 @@ Cemetery records provide individual birth and death dates that can be used to de
 
 # Hypotheses
 
-Write each hypothesis before interpreting the figures. State the expected direction and identify the comparison.
+3. **Military service and lifespan:** I hypothesize that male records marked as military service will show lower lifespan than records not marked for service because of the draft and exposure to chemicals.
 
-1. **Sex and lifespan:** I hypothesize that [women / men] will have a greater lifespan than [men / women] in this sample because [brief rationale].
-2. **Marriage and lifespan:** I hypothesize that [married / unmarried] [women / men] will have a greater lifespan than [comparison group] because [brief rationale].
-3. **Military service and lifespan:** I hypothesize that male records marked as military service will show [greater / lower / similar] lifespan than records not marked for service because [brief rationale].
-4. **Birth period and lifespan:** I hypothesize that people born [before / in or after] 1930 will show [greater / lower / similar] lifespan because [brief rationale].
 
 # Methods
 
-Complete the prompts below. Replace bracketed text with details from the field visit and the final class dataset.
-
 ## Field site and sampling
 
-- **Where did you go?** [Cemetery name, location, and any relevant site characteristics.]
-- **What date and time of day did you collect records?** [Date, start/end time, and weather or visibility conditions if relevant.]
-- **What part of the cemetery did you sample?** [Section, row, plot area, or a map-based description.]
-- **How did you choose graves?** [Describe whether sampling was systematic, opportunistic, or based on another rule.]
-- **How did you handle nearby graves and family plots?** [Explain whether neighboring graves were recorded to capture families, or whether sampling moved between plots to avoid over-representing one family.]
+- **Where did you go?** We went to the sunset hill cemetary in Valdosta, Georgia next to the VSU campus on Thursday October 8th. We focused on the front of the cemetary and marked names, birth and death dates, maritial status, and if they were in the military or not. 
+- **What part of the cemetery did you sample?** We sampled from the south western part of the cemetary. We collected data randomly from the left side of the gate. 
+- **How did you choose graves?** We collected data based on trying to have a variety of different results. We made sure to collect some that were married and in the military, as well as, getting roughly an equal amount of males and females.
+- **How did you handle nearby graves and family plots?** We sampled randomly to collect data from a broad spectrum. We made sure to collect data of all sorts. We made sure to include some families and single headstones by themselves to ensure there was a variety in our data. 
 
 ## Recorded information and variable definitions
 
-- **What information did you record from each marker?** [For example: name, birth date or year, death date or year, age at death, sex/gender as recorded or inferred, marriage indicator, military indicator, and inscription details.]
-- **How was lifespan calculated?** [State whether age was transcribed from the marker or calculated as death year minus birth year, and how partial dates were handled.]
-- **How did you determine marital status?** [Explain evidence such as “wife,” “husband,” spouse names, or paired markers. If a joint grave was used as evidence, state that this is an inference and describe the rule.]
-- **How did you determine military service?** [Describe explicit evidence such as service branch, rank, unit, or veteran symbols. Explain how uncertain cases were coded.]
-- **How did you determine sex or gender?** [Describe what was explicitly recorded and what, if anything, was inferred. Do not present an inference as a confirmed identity.]
-- **How were missing, illegible, or ambiguous records handled?** [State exclusion and coding rules.]
+- **What information did you record from each marker?** We marked each name, gender, maritial status, birth/death date, and if they were in the military. We also included if there was information on their headstone about them being a higher ranking in the military.
+- **How was lifespan calculated?** We did not collect data on headstones that did not have death dates. We subtracted the death date by the birth date to determine the age that each died. 
+- **How did you determine military service?** We determined military service of each person by looking for any obvious engraving on the headstones of rankings, wars served in, or military plaques. If there were any information on the headstone regarding a specific ranking we included that information as well (ex. seargants, commanders, etc). 
+
 
 ## Dataset and analysis
 
-- **How many records were collected by you?** [n = ]
-- **How many records were included in the final analysis?** [n = ; explain exclusions.]
-- **Were records aggregated with the class dataset?** [Yes / no. If yes, describe how duplicates and conflicting entries were checked.]
-- **What summaries or plots were produced?** [Describe group summaries and empirical survivorship curves, including how categories were defined.]
-- **What are the limits of the sample?** [Discuss marker preservation, incomplete dates, cemetery selection, sampling strategy, and any other relevant limitations.]
+- **How many records were collected by you?** [n =50]
+- **How many records were included in the final analysis?** We submitted 25 total to the total data set. 
+- **Were records aggregated with the class dataset?** No
+- **What summaries or plots were produced?** We did notice that we were in a part of the cemetary that contained older headstones. We noticed that most of the individuals that were buried were born mostly in the 1800's signifying that we were in an older part of the cemetary. 
+- **What are the limits of the sample?** We came across some limits due to being assigned to a specific part of the cemetary. We could have collected data throughout the entire cemetary and focused on military troops to get more defined data, however we collected it simply on the plot that was given. 
 
 # Results
 
-**Replace each image placeholder with a PNG of the matching plot from the final class dataset. Keep figures in the `survivorship_curves` and `cemetery_lifespan_report_files` folder, or update the image path in the Markdown. The figure captions are editable and should describe the plotted groups, axes, and relevant reference lines.**
+The summary table in @fig-summary shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 59.0 years (SD = 20.4; n = 3), compared with 29.7 years (SD = 7.1; n = 3) for females. The marital-status breakdown is more tentative because each subgroup contains only one or two records. Among males, the two married individuals had a mean lifespan of 70.5 years (SD = 6.4), while the one unmarried individual lived 36 years. Among females, the one married individual lived 36 years, compared with a mean of 26.5 years (SD = 6.4) for the two unmarried individuals. These small subgroup sizes make the values descriptive; they do not support broad conclusions about sex or marital status.
 
-**Summarize the data both by referencing @fig-summary and by writing out what the table is displaying specific to your particular research hypothesis. For instance, if you are interested only in marriage status and sex, then report the mean and standard deviation of males and females that are married vs unmarried; you do not need to discuss military status unless this is part of your research question/hypothesis.**
+![Summary of lifespan of males by military status.](lifespan_tables/sex_military.png){#fig-summary width=90% fig-pos="t" fig-env="figure*"}
 
-*The summary table in @fig-summary shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 59.0 years (SD = 20.4; n = 3), compared with 29.7 years (SD = 7.1; n = 3) for females. The marital-status breakdown is more tentative because each subgroup contains only one or two records. Among males, the two married individuals had a mean lifespan of 70.5 years (SD = 6.4), while the one unmarried individual lived 36 years. Among females, the one married individual lived 36 years, compared with a mean of 26.5 years (SD = 6.4) for the two unmarried individuals. These small subgroup sizes make the values descriptive; they do not support broad conclusions about sex or marital status.*
+The sex-specific survivorship curves in show a different pattern: the plotted means are 61.1 years for males and 57.3 years for females. The male curve remains higher through much of the earlier and middle lifespan, while the female curve reaches the 50% survival point later. The curves are close and change relative position, so the figure suggests that the sex difference depends on which part of the lifespan distribution is considered. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.
 
-![Summary of lifespan by sex and by marrital status for each sex.](lifespan_tables/combined_tables.png){#fig-summary width=90% fig-pos="t" fig-env="figure*"}
+![Survivorship curves of males by military service The y-axis shows the percentage of the cemetery sample surviving to each lifespan. Dotted vertical lines mark the median lifespan for each sex, where the curve reaches 50%.](survivorship_curves/survivorship_military_males.png){#fig-military width=70% fig-pos="t" fig-env="figure*"}
 
-*The sex-specific survivorship curves in @fig-sex show a different pattern: the plotted means are 61.1 years for males and 57.3 years for females. The male curve remains higher through much of the earlier and middle lifespan, while the female curve reaches the 50% survival point later. The curves are close and change relative position, so the figure suggests that the sex difference depends on which part of the lifespan distribution is considered. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.*
-
-![Survivorship curves by sex. The y-axis shows the percentage of the cemetery sample surviving to each lifespan. Dotted vertical lines mark the median lifespan for each sex, where the curve reaches 50%.](survivorship_curves/survivorship_by_sex.png){#fig-sex width=70% fig-pos="t" fig-env="figure*"}
-
-*The within-sex comparisons in @fig-married show higher plotted mean lifespans for married than unmarried individuals in both panels. For males, the plotted means are 64.3 years for married individuals and 55.4 years for unmarried individuals. For females, they are 64.3 and 46.3 years, respectively. The curves also place the 50% survival point later for the married groups. These are descriptive differences and should not be interpreted as evidence that marriage caused longer lifespan; other factors and the sizes and composition of the groups could contribute.*
-
-![Survivorship by marital status, with separate male and female panels. Dotted vertical lines mark the median lifespan for each marital-status group, where the curve reaches 50%.](survivorship_curves/survivorship_married_by_sex_combined.png){#fig-married width=70% fig-pos="t" fig-env="figure*"}
-
-**Summary of observed results:** [Describe the main pattern, sample size for each comparison, and any uncertainty or missing-data issue. Refer to the figures by number. Do not infer causation from group differences.]
 
 # Discussion
 
-**Sex and lifespan.** Research on sex differences in longevity points to a combination of biological, behavioral, and social influences rather than a single explanation. Austad and Fischer review evidence on sex differences in lifespan and aging across species, including humans [@austadSexDifferencesLifespan2016]. In this cemetery sample, the observed female and male curves [describe the pattern] and [support / do not support] the prediction that [state your hypothesis]. The result should be interpreted in the context of this cemetery’s birth cohorts and sampling process; it is not by itself an estimate of a general sex difference in lifespan.
+The data showed that the number of individuals that served in the military did not have as short of a lifespan as I expected. This could be from the area of the cemetary being located in a very rural area where most military troops are buried and honored in bigger cities. Most men that were documented and studied in this curve passed after a time of war or did not simply serve in a time of war. The data ultimately proved my hypothesis to be nulled as it proves that military does not necessarily mean that the lifespan is shorter for those people. 
 
-**Marital status and social relationships.** Marriage can correlate with social support, health behaviors, household resources, and social integration, but people’s health can also influence whether they marry or remain married. A large meta-analysis found associations between unmarried status and mortality, with some associations differing by sex [@wangSexDifferencesAssociation2020]; a broader meta-analysis linked social relationships with mortality risk [@holt-lunstadSocialRelationshipsMortality2010]. In this dataset, the comparison of married and not-married records among [men / women / both] showed [describe results]. These cemetery records do not measure relationship quality, social contact, or the timing and duration of marriage, so marital status should be treated as an imperfect indicator rather than a direct measure of socialization or a cause of longevity.
 
-**Historical changes in lifespan and childhood survival.** Life expectancy at birth is strongly affected by deaths in infancy and childhood, so a low historical average does not mean that every adult died young. Improvements in clean water and sanitation contributed substantially to mortality declines in the United States during the twentieth century, especially for infants and children [@cutlerRolePublicHealth2005]. The birth-period pattern in this sample [describe results] may be consistent with changing survival conditions, but birth year alone cannot identify which changes mattered. Vaccination, nutrition, medical care, living conditions, and the incomplete representation of people in cemetery records may also contribute to differences across cohorts.
-
-**Limitations and next steps:** [Discuss sample size, missing or inferred data, cemetery representation, family clustering, survivorship bias, and what additional evidence would strengthen the analysis.]
 
 ```{=latex}
 \newpage
